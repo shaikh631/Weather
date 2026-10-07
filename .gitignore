@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+node_modules/
+dist/
+backend/saved_models/*.joblib
+.DS_Store
+.idea/
+.vscode/
+coverage/
+.pytest_cache/
